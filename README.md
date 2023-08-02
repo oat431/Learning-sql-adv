@@ -1,10 +1,17 @@
-# Learning-sql-adv
+# Learning-database
 
-will update this material soon
+- Graph database
+- text base database
+- wide column database
+- Object database
+- Relational database
 
-learning the very advance sql (mostly PostgreSQL, MSSQL)
+
+learning relational database (mostly PostgreSQL, MSSQL)
 - store procedure
 - function
 - optimize query
 - optimize join
 - set theory
+
+update soon...
