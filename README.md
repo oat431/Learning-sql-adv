@@ -9,6 +9,8 @@
 
 learning relational database (mostly PostgreSQL, MSSQL)
 - store procedure
+- normalization
+- denormalization
 - function
 - optimize query
 - optimize join
