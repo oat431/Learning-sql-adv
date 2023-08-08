@@ -5,6 +5,7 @@
 - wide column database
 - Object database
 - Relational database
+- Time Series database
 
 
 learning relational database (mostly PostgreSQL, MSSQL)
