@@ -16,5 +16,6 @@ learning relational database (mostly PostgreSQL, MSSQL)
 - optimize query
 - optimize join
 - set theory
+- joining table
 
 update soon...
