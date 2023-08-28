@@ -1,0 +1,70 @@
+# Relational Database
+
+Or SQL database a standard database language used to access and manipulate data in databases
+
+Table of Content
+- Basics
+  - Data type
+  - DDL, DML, TCL, DCL
+  - Transactions
+  - Views
+  - Comments
+  - Contraints
+  - Roles
+  - Indexs
+  - Sequences
+  - Query Processing
+  - CTE in SQL
+  - Trigger
+- Clauses / Operators
+  - WITH / Ties
+  - Arithmetic Operators
+  - Windcard
+  - Intersect and Except
+  - USING
+  - MERGE
+  - CREATE
+  - CASE
+  - UNIQUE
+  - ALTTER (rename, add, drop, modify)
+  - LIMIT
+  - INSERT IGNORE
+  - LIKE
+  - SOME
+  - OFFSET-FETCH
+  - ALL
+  - EXISTS
+  - GROUP BY
+  - UNION
+  - ALIASES
+  - ORDER BY
+  - SELECT TOP
+  - UPDATE
+  - DELETE
+  - INSERT INTO
+  - AND and OR
+  - WHERE
+  - DISTINCT
+  - SELECT
+  - DROP, TRUNCATE
+  - CREATE
+  - JOIN
+  - MINUS
+  - DIVISION
+  - NOT
+  - BETWEEN IN
+  - INNER ,RIGHT, LEFT FULL, JOIN
+  - CHECK
+  - SQRT, PI, SQUARE, ROUND, CEILING, FLOOR
+  - Conversion Function
+  - NVL, NVL2, DECODE, COALESCE, NULLIF, LNNVL and NANVL
+  - Conditional Expressions
+  - Functions
+  - Date Functions
+  - LISTAGG
+  - Aggregatet functions
+  - Functions
+  - Null
+  - Numeric Functions
+  - String Functions
+  - Advanced Functions
