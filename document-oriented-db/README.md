@@ -1,0 +1,47 @@
+# Document-oriented Database
+- Basic
+  - Database, Collection, and Document
+  - Cursor
+  - Datatype in Document Oriented database
+  - Query
+- Method
+  - insert(), insertOne(), insertMany(), Bulk.insert(), bulkWrite()
+  - update(), updateOne, updateMany()
+  - find(), findAndModify(), findOne(), findOneAndDelete(),findOneAndUpdate()
+  - sort()
+  - copyTo()
+  - count(), countDocuments()
+  - drop(), remove(), deleteOne(),dropIndex(), dropIndexes()
+  - distinct()
+  - limit()
+  - skip()
+  - ObjectID()
+  - createIndex(), createIndexes()
+  - getIndexes()
+- Operators
+  - Comparison Query
+  - $cmp Operator
+  - Greater than $gt, Less than $lt, Equality $eq, Greater than equals $gte, Less than equals $lte
+  - Inequality $ne
+  - $in in, $nin not in
+  - logical operation, and, or, not, nor
+  - arithmetic
+  - field update, maximum, minimum, increment,multiply, rename, currentDate, setOnINsert, Bitwise
+  - $isArray, $size, $arrayElemAt, $concatArrays, $reverseArray
+  - $pull, $pop, $pullAll, $, $[], $position, $addToSet, $each, $sort, $slice
+- Document and Collections
+  - Create dataase and Collection
+  - Check the existence of the fields in the specified collection, sorting document, capped collection
+- Indexing
+  - Indexing
+  - Index Type
+  - Compound Indexes
+  - Text Indexes
+  - Multikey Indexes
+- MongoDB Advance
+  - Regex
+  - Projection
+  - Embedded
+  - Role
+  - Replication and Sharding
+  - Backup and restoration
