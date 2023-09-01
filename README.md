@@ -1,21 +1,22 @@
 # Learning-database
 
-- Graph database
-- text base database
-- wide column database
-- Object database
-- Relational database
-- Time Series database
+- Graph database (Neo4j)
+- text base database (Solar, ElasticSearch)
+- wide column database (Casssanda)
+- Object database (MongoDB)
+- Relational database (PostgreSQL, or MSSQL)
+- Time Series database (InfluxDB)
 
 
-learning relational database (mostly PostgreSQL, MSSQL)
+Database Design, Analysis and concept
+- DB Design
+- DB Analysis
+- ER, EER diagram
 - store procedure
 - normalization
 - denormalization
-- function
 - optimize query
 - optimize join
 - set theory
 - joining table
 
-update soon...
