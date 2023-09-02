@@ -5,7 +5,7 @@
 - wide column database (Casssanda)
 - Object database (MongoDB)
 - Relational database (PostgreSQL, or MSSQL)
-- Time Series database (InfluxDB)
+- Time Series database (Time Scale DB)
 
 
 Database Design, Analysis and concept
